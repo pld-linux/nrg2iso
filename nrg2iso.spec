@@ -22,7 +22,7 @@ generowanych przez program Nero Burning Rom na format ISO 9660.
 %setup -q
 
 %build
-%{__make}
+%{__cc} %{rpmldflags} -o nrg2iso %{rpmcflags} nrg2iso.c
 
 %install
 rm -rf $RPM_BUILD_ROOT
