@@ -1,12 +1,12 @@
 Summary:	Convert Nero's NRG images to ISO9660
 Summary(pl):	Konwersja obrazów NRG programu Nero na format ISO9660
 Name:		nrg2iso
-Version:	0.2
+Version:	0.4
 Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://gregory.kokanosky.free.fr/v4/linux/%{name}-%{version}.tar.gz
-# Source0-md5:	94fd562e7603a1d8f1a7d90d6936ba5f
+# Source0-md5:	996c38c8f1465e9c51ccad4f31ec2eee
 URL:		http://gregory.kokanosky.free.fr/v4/linux/nrg2iso.en.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
