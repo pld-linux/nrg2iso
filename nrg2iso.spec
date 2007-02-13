@@ -1,5 +1,5 @@
 Summary:	Convert Nero's NRG images to ISO9660
-Summary(pl.UTF-8):   Konwersja obrazów NRG programu Nero na format ISO9660
+Summary(pl.UTF-8):	Konwersja obrazów NRG programu Nero na format ISO9660
 Name:		nrg2iso
 Version:	0.4
 Release:	1
